@@ -168,11 +168,7 @@ Contributions are welcome! Please open an issue or create a PR with clear intent
 
 ## Author 👤
 
-Vikas — creator & maintainer
-
-- GitHub: (add your GitHub profile link)
-- Email: (add contact email)
-
+Vineet Mantur
 ---
 
 Thank you for checking out the project — if you'd like, I can also add a short CONTRIBUTING guide, generate a set of demo screenshots, or create a GitHub Actions workflow for CI.
